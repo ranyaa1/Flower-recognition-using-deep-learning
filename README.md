@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/6a569ac8-ea47-4583-9020-776f8a28e16f)
 # Flower-recognition-using-deep-learning
 
 Excited to announce our successful practical session titled 'Flower Image Recognition Using Deep Learning' in our machine learning course for research master studies under the esteemed guidance of Professor Olfa Jemai, alongside my colleague Insaf Chaibi🌸
